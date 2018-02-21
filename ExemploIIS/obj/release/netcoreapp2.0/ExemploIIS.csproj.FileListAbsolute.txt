@@ -1,0 +1,10 @@
+F:\SENAI\IIS\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.deps.json
+F:\SENAI\IIS\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.runtimeconfig.json
+F:\SENAI\IIS\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.runtimeconfig.dev.json
+F:\SENAI\IIS\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.dll
+F:\SENAI\IIS\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.pdb
+F:\SENAI\IIS\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.csproj.CoreCompileInputs.cache
+F:\SENAI\IIS\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.AssemblyInfoInputs.cache
+F:\SENAI\IIS\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.AssemblyInfo.cs
+F:\SENAI\IIS\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.dll
+F:\SENAI\IIS\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.pdb

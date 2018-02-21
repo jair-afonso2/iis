@@ -1,0 +1,1 @@
+testar (dotnet build e dotnet run) no Kestrel(local vscode) e após publicar no IIS (máquina | Hospedagem)

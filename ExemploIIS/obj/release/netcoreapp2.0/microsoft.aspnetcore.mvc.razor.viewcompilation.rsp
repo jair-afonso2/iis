@@ -1,0 +1,12 @@
+F:\SENAI\IIS\ExemploIIS
+--output-path=obj\release\netcoreapp2.0\
+--application-name=ExemploIIS
+--content-root=F:\SENAI\IIS\ExemploIIS
+--file=F:\SENAI\IIS\ExemploIIS\Views\Home\About.cshtml
+--file=F:\SENAI\IIS\ExemploIIS\Views\Home\Contact.cshtml
+--file=F:\SENAI\IIS\ExemploIIS\Views\Home\Index.cshtml
+--file=F:\SENAI\IIS\ExemploIIS\Views\Shared\Error.cshtml
+--file=F:\SENAI\IIS\ExemploIIS\Views\Shared\_Layout.cshtml
+--file=F:\SENAI\IIS\ExemploIIS\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=F:\SENAI\IIS\ExemploIIS\Views\_ViewImports.cshtml
+--file=F:\SENAI\IIS\ExemploIIS\Views\_ViewStart.cshtml
